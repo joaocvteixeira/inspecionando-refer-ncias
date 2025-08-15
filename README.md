@@ -1,5 +1,3 @@
-_Essa atividade foi enviada através de um formulário Google, a cópia do que foi enviado se encontra em aguardo para conclusão desse repositório_
-
 **Atividade:** 
 1. Escolham um tipo de aplicação: e-commerce, rede social, blog, etc
 2. Busquem referências: Encontrem 2 ou 3 sites exemplos.
@@ -14,4 +12,6 @@ _Essa atividade foi enviada através de um formulário Google, a cópia do que f
 - **Data da Aula:** 04 de Agosto de 2025  
 
 _Repositório criado com o intuito de registrar a execução da atividade._
+_Essa atividade foi enviada através de um formulário Google, a cópia do que foi enviado se encontra em aguardo para conclusão desse repositório_
+
 
