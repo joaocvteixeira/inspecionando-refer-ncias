@@ -11,7 +11,7 @@
 - **Docente:** Andre Avelino da Silva Neto
 - **Data da Aula:** 04 de Agosto de 2025  
 
-_Repositório criado com o intuito de registrar a execução da atividade._
+_Repositório criado com o intuito de registrar a execução da atividade._  
 _Essa atividade foi enviada através de um formulário Google, a cópia do que foi enviado se encontra em aguardo para conclusão desse repositório_
 
 
