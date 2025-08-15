@@ -13,5 +13,3 @@
 
 _Repositório criado com o intuito de registrar a execução da atividade._  
 _Essa atividade foi feita e enviada em sala de aula através de um formulário Google, a cópia do que foi enviado se encontra em aguardo para conclusão desse repositório_
-
-
